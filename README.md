@@ -27,3 +27,6 @@
 [MySQL必知必会学习笔记](https://zhouwyu.github.io/2023/03/02/%E3%80%8AMySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%E3%80%8B%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/)
 
 ## LeetCode刷题学习
+[数组篇](https://zhouwyu.github.io/2023/03/01/LeetCode%E5%88%B7%E9%A2%98%E5%AD%A6%E4%B9%A0-%E6%95%B0%E7%BB%84%E7%AF%87/)
+
+[链表篇](https://zhouwyu.github.io/2023/03/01/LeetCode%E5%88%B7%E9%A2%98%E5%AD%A6%E4%B9%A0-%E9%93%BE%E8%A1%A8%E7%AF%87/)
