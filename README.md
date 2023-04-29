@@ -10,9 +10,12 @@
 
 ## 计算机网络
 [计算机网络基础系列（一）](https://zhouwyu.github.io/2023/04/29/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89/)
+
 [计算机网络基础系列（二）](https://zhouwyu.github.io/2023/04/29/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89/)
+
 [计算机网络基础系列（三）](https://zhouwyu.github.io/2023/04/29/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89/)
-[计算机网络基础](https://zhouwyu.github.io/2023/04/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
+
+[计算机网络基础汇总](https://zhouwyu.github.io/2023/04/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
 
 ## 操作系统
 
