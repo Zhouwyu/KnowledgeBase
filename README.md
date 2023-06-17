@@ -16,7 +16,7 @@
 
 
 ## 操作系统
-待更新
+[操作系统基础（一）](https://zhouwyu.github.io/2023/06/01/cao-zuo-xi-tong-ji-chu-yi/)
 
 ## 计算机组成原理
 待更新
@@ -50,6 +50,8 @@
 [链表篇](https://zhouwyu.github.io/2023/03/01/leetcode-shua-ti-xue-xi-lian-biao-pian/)
 
 [字符串篇](https://zhouwyu.github.io/2023/06/07/leetcode-shua-ti-xue-xi-zi-fu-chuan-pian/)
+
+[栈与队列篇](https://zhouwyu.github.io/2023/06/15/leetcode-shua-ti-xue-xi-zhan-yu-dui-lie-pian/)
 
 
 ## Linux
