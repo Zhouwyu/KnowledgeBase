@@ -53,6 +53,8 @@
 
 [栈与队列篇](https://zhouwyu.github.io/2023/06/15/leetcode-shua-ti-xue-xi-zhan-yu-dui-lie-pian/)
 
+[二叉树篇](https://zhouwyu.github.io/2023/06/26/leetcode-shua-ti-xue-xi-er-cha-shu-pian/)
+
 
 ## Linux
 待更新
