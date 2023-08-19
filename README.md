@@ -60,4 +60,8 @@
 待更新
 
 ## 量子计算
-待更新
+
+### 线性代数基础
+[向量](https://zhouwyu.github.io/2023/08/17/di-yi-zhang-xiang-liang-kong-jian-ji-qi-xing-zhi/)
+
+[矩阵]()
