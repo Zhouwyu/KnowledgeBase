@@ -1,7 +1,7 @@
 # 知识库
 个人学习记录，主要是计算机方面相关知识
 
-## 数据结构与算法
+## C算法之路
 [线性结构（一）——顺序表与链表](https://zhouwyu.github.io/2023/03/06/shu-ju-jie-gou-yu-suan-fa-xian-xing-jie-gou-pian-yi-c-yu-yan-ban/)
 
 [线性结构（二）——栈与队列](https://zhouwyu.github.io/2023/06/01/shu-ju-jie-gou-yu-suan-fa-xian-xing-jie-gou-pian-er-c-yu-yan-ban/)
