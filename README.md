@@ -15,6 +15,20 @@
 [排序]()
 
 
+## C++算法之路
+[哈希表](https://zhouwyu.github.io/2023/10/06/c-ha-xi-biao/)
+
+[树](https://zhouwyu.github.io/2023/10/07/c-shu/)
+
+[堆](https://zhouwyu.github.io/2023/10/10/c-dui/)
+
+[图](https://zhouwyu.github.io/2023/10/11/c-tu/)
+
+[搜索]()
+
+[排序]()
+
+
 ## 操作系统
 [操作系统基础（一）](https://zhouwyu.github.io/2023/06/01/cao-zuo-xi-tong-ji-chu-yi/)
 
